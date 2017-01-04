@@ -1,0 +1,15 @@
+After Create you can browse what you create, change it and revert it.
+After Change you should commit about the change.
+After Revert you can make braches and commit about it.
+After Update you could make a new branch or commit about the update in the same branch.
+After Branch you should commit about the branch.
+After Commit you can Publish.
+---
+Create : Make new repositry.
+Browse : See the repositry.
+Change : Edit on the files in the repositry.
+Revert : Rewrite a commit of their are any mistake.
+Update : Pull new file.
+Branch : New file thats diffrent than the master.
+Commit : Leave commit about what you did.
+Publish : Push the project in new release.
